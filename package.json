@@ -1,0 +1,12 @@
+{
+  "name": "node-rd",
+  "version": "1.0.0",
+  "description": "Node.js project",
+  "scripts": {
+    "hw-1": "node hw-1/index.js"
+  },
+  "author": "Watch1k",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
